@@ -1,0 +1,13 @@
+{
+    "name": "laraforce/statapostgres",
+    "description": "Statamic Postgres Driver",
+    "type": "driver",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laraforce",
+            "email": "laraforce@laraforce.com"
+        }
+    ],
+    "require": {}
+}
