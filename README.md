@@ -1,2 +1,3 @@
-# statapostgres
-Statamic Postgres Driver
+# Statamic Postgres Driver
+
+Postgres Driver for Statamic Repositories
